@@ -1,5 +1,3 @@
-# Typescript-To-do-list
-
 todo-typescript-app/
 ├── index.html
 ├── style.css
