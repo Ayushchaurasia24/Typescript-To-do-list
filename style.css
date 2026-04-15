@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;       /* Clean font */
+  text-align: center;                  /* Center content */
+}
+
+.input-container {
+  margin: 20px;                        /* Space around inputs */
+}
+
+input, button {
+  padding: 10px;                       /* Comfortable spacing */
+  margin: 5px;
+}
+
+li {
+  list-style: none;                    /* Remove bullets */
+  margin: 10px;
+}
+
+.completed {
+  text-decoration: line-through;       /* Strike completed tasks */
+  color: gray;
+}
