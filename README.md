@@ -7,3 +7,5 @@ todo-typescript-app/
 │   └── app.ts        # TypeScript code
 ├── tsconfig.json
 └── README.md
+
+--its a basic project that shows i am able to understand TypeScript Fundamentals as well.
